@@ -1,1 +1,0 @@
-Get-Command | Out-File -FilePath .\Command.txt
